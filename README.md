@@ -121,8 +121,8 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 ↪️ 𝐂𝐑𝐄𝐃𝐈𝐓𝐒 ↩️
 </p>
 
-- Dev  <a href="https://telegram.dog/PR0FESS0R_99">𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽</a>
-- Co Editor <a href="https://github.com/Xrsirx5">𝖷𝗋𝗌𝗂𝗋𝗑5</a>
+- Dev  <a href="https://pushpa_reju">𝚃𝙶-𝙿𝚄𝚂𝙷𝙿𝙰𝚁𝙴𝙹𝚄</a>
+- Group <a href="https://t.me/crimebhavani4">Crimemalayalammoviz5</a>
 
 - Thanks To [Donlee_RoBot V1](https://github.com/PR0FESS0R-99/DonLee-robot-V1)
 - Thanks To [Pyrogram](https://github.com/pyrogram/pyrogram)
