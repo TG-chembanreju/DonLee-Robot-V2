@@ -135,14 +135,14 @@ async def about(bot: DonLee_Robot_V2, msg: Import.Msg):
 @DonLee_Robot_V2.on_message(filters.command(["sub", "subscribe"]) & filters.private, group=1)
 async def sub(bot: DonLee_Robot_V2, msg: Import.Msg):
         button = [[     
-          Import.Button("🖥️𝖵𝗂𝖽𝖾𝗈", url="https://www.youtube.com/watch?v=NrbMc93aCzA"),
-          Import.Button("𝖲𝗎𝗉𝗉𝗈𝗋𝗍🤝", url="https://www.youtube.com/watch?v=NrbMc93aCzA")
+          Import.Button("🖥️𝖵𝗂𝖽𝖾𝗈", url="https://youtu.be/YE3hXm67NbY"),
+          Import.Button("My Channel🤝", url="https://youtu.be/YE3hXm67NbY")
           ],[
-          Import.Button("📢𝖴𝗉𝖽𝖺𝗍𝖾𝗌", url="https://www.youtube.com/watch?v=NrbMc93aCzA"),
-          Import.Button("𝖸𝗈𝗎𝖳𝗎𝖻𝖾💞", url="https://www.youtube.com/watch?v=NrbMc93aCzA")
+          Import.Button("📢MoviFiles", url="https://t.me/updatechannel_forcrime"),
+          Import.Button("📤Group", url="https://t.me/crimebhavanireju")
           ],[
-          Import.Button("📦𝖦𝗂𝗍𝗁𝗎𝖻", url="http://github.com/PR0FESS0R_99"),
-          Import.Button("𝖨𝗇𝗌𝗍𝖺😁", url="https://www.instagram.com/mrk_yt_")
+          Import.Button("🔰Dev", url="https://t.me/pushpa_reju"),
+          Import.Button("🔰insta", url="https://www.instagram.com/tblbhavani123")
           ],[
           Import.Button("𝖢𝗅𝗈𝗌𝖾🗑️", callback_data="close")
           ]]                     
