@@ -37,9 +37,7 @@ class Text(object):
     SUB_TEXT = """
 𝖧𝖾𝗅𝗅𝗈 𝖿𝗋𝗂𝖾𝗇𝖽𝗌,
 𝖣𝗈 𝗒𝗈𝗎 𝗐𝖺𝗇𝗍 𝗍𝗈 𝗆𝖺𝗄𝖾 𝖺 𝖻𝗈𝖺𝗍 𝗅𝗂𝗄𝖾 𝗍𝗁𝗂𝗌?
-𝖡𝗎𝗍 𝗀𝗈 𝗊𝗎𝗂𝖼𝗄𝗅𝗒 𝖺𝗇𝖽 𝖼𝗅𝗂𝖼𝗄 𝗈𝗇 𝖣𝖾𝗉𝗅𝗈𝗒 𝖭𝗈𝗐 𝗍𝗈 𝗐𝖺𝗍𝖼𝗁 𝗍𝗁𝖾 𝗏𝗂𝖽𝖾𝗈
-𝖳𝗁𝖾 𝗋𝖾𝗉𝗈 𝗏𝗂𝖽𝖾𝗈 𝗁𝖺𝗌 𝖻𝖾𝖾𝗇 𝖺𝖽𝖽𝖾𝖽 𝗍𝗈 𝗍𝗁𝖾 𝖽𝖾𝗌𝖼𝗋𝗂𝗉𝗍𝗂𝗈𝗇 𝖻𝗈𝗑
-𝖦𝗈 𝗊𝗎𝗂𝖼𝗄𝗅𝗒 𝖺𝗇𝖽 𝗉𝗂𝖼𝗄 𝗂𝗍 𝗎𝗉
+ Enne വേണോങ്കിൽ മാറി നിന്ന് ഊമ്പ് 
 
 📢 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 : <a href="t.me/updatechannel_forcrime">Crime Malayalam Moviez official</a>
 🎗️ 𝖦𝗋𝗈𝗎𝗉 : <a href="t.me/crimebhavanireju">Crime Malayalam Moviez Group</a>
